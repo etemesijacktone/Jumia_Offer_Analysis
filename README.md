@@ -2,9 +2,8 @@
 
 This repo contains project files for an Analysis of Jumia Kenya's Offers. 
 
-The project aims to answer the following research questions;
-
-1.<b> Is there a correlation between the price of products and their offers? If yes, is it possible to predict offers given price?
+The project aims to answer the following research questions;<b>
+1. Is there a correlation between the price of products and their offers? If yes, is it possible to predict offers given price?
 2. How many product categories does jumia feature in its offers?
 3. What are the top 5 categories with the most number of items on offer?
 4. What 5 categories have the least number of items on offer?
