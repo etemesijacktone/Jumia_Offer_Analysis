@@ -4,7 +4,7 @@ This repo contains project files for an Analysis of Jumia Kenya's Offers.
 
 The project aims to answer the following research questions;
 
-1. Is there a correlation between the price of products and their offers? If yes, is it possible to predict offers given price?
+1.<b> Is there a correlation between the price of products and their offers? If yes, is it possible to predict offers given price?
 2. How many product categories does jumia feature in its offers?
 3. What are the top 5 categories with the most number of items on offer?
 4. What 5 categories have the least number of items on offer?
@@ -18,7 +18,7 @@ The project aims to answer the following research questions;
         . What is the value of products in their given categories? 
         
 9. Split the dataset into a train, validation, and test groups and create a machine learning model to predict offers given prices.
-10. What is the significance of this project?
+10. What is the significance of this project?</b>
 
 
 The project utilizes the following data science concepts;
